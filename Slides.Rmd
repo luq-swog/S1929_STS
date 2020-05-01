@@ -1,35 +1,51 @@
 ---
-title: "S1929 in SpecTrack"
+title: "SpecTrack Instruction for S1929"
+subtitle: "For MDACC Tissue Qualification Laboratory"
 author: "SWOG SDMC"
-date: "5/1/2020"
-output: ioslides_presentation
+date: "2020-5-1"
+output: xaringan::moon_reader
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+class: center, middle 
+# Outline
 
-## R Markdown
+## Access SpecTrack
+## Recieve New Shipment
+## Specimen Manager
+## Enter Assay Results
+
+---
+
+## Access SpecTrack
 
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-## Slide with Bullets
+---
+
+## Recieve New Shipment
 
 - Bullet 1
 - Bullet 2
 - Bullet 3
 
-## Slide with R Output
+---
+
+## Specimen Manager
 
 ```{r cars, echo = TRUE}
-summary(cars)
+
 ```
 
-## Slide with Plot
+---
+
+## Enter Assay Results
 
 ```{r pressure}
-plot(pressure)
+
 ```
 
+---
+
+## Questions?
