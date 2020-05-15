@@ -2,7 +2,7 @@
 title: "SpecTrack Instruction for S1929"
 subtitle: "For UTMDACC-TQL"
 author: "SWOG SDMC"
-date: "2020-5-1"
+date: "2020-5-15"
 output: xaringan::moon_reader
 ---
 
@@ -11,43 +11,49 @@ class: center, middle
 
 ## Access SpecTrack
 ## Recieve New Shipment
-## Specimen Manager
 ## Enter Assay Results
 
 ---
 
 ## Access SpecTrack
-
 - Access the SWOG [Specimen Tracking System](https://crawb.crab.org/SpecTrack/Logon.aspx) using **Internet Explorer**
 
-- Log on with your assigned SWOG Roster ID Number and Password
-
+- Log on with your CTEP IAM credentials or SWOG Roster ID
+.center[![main](images/01 STS Main.png)]
 - Enter SWOG Lab Number: **240**
-
+.pull-right[![lab.num](images/02 Enter SWOG Lab Number Cropped.png)]
 ---
 
 ## Recieve New Shipment
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- View shipments
+.center[![view.ship](images/03 View unreceived shipments.png)]
+- Edit a shipment
+.center[![enter.ship](images/04 See Not Received Samples 2.png)]
 
 ---
 
-## Specimen Manager
+## Recieve New Shipment (continued)
 
-```{r cars, echo = TRUE}
-
-```
+.center[![conf.ship](images/confirm shipment.gif)]
 
 ---
 
 ## Enter Assay Results
 
-```{r pressure}
+- Check specimens pending SLFN11 results
 
-```
+- Click _Edit Assay Results_ to enter or edit SLFN11 results
+
+- Log tissue sufficiency and assay result
+
+- Return to Assay Specimen List to see **Entry Status** of all specimens
 
 ---
 
-## Questions?
+## Question?
+
+- For SWOG STS-related questions, contact <technicalquestion@crab.org>
+
+- For study-related questions, contact <S1929@swog.org>
+
+- For questions regarding this instruction, contact <lqian@fredhutch.org>
