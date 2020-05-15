@@ -28,6 +28,7 @@ class: center, middle
 ## Recieve New Shipment
 - View shipments
 .center[![view.ship](images/03 View unreceived shipments.png)]
+
 - Edit a shipment
 .center[![enter.ship](images/04 See Not Received Samples.png)]
 
@@ -40,10 +41,14 @@ class: center, middle
 ---
 
 ## Enter Assay Results
+- View specimens that require assay testing
+.center[![view.assay](images/05 View assaying specimens.png)]
+- Edit the assay result of a specimen
+.center[![enter.assay](images/06 Edit assay results.png)]
 
-- Check specimens pending SLFN11 results
+---
 
-- Click _Edit Assay Results_ to enter or edit SLFN11 results
+## Enter Assay Results (continued)
 
 - Log tissue sufficiency and assay result
 
