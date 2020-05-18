@@ -31,15 +31,15 @@ class: center, middle
 - Access the SWOG [Specimen Tracking System](https://crawb.crab.org/SpecTrack/Logon.aspx) using **Internet Explorer**
 
 - Log on with your CTEP IAM credentials or SWOG Roster ID
-.center[![main](images/01 STS Main.png)]
+.center[![main](images/STS Main.png)]
 - Enter SWOG Lab Number: **240**
-.pull-right[![lab.num](images/02 Enter SWOG Lab Number Cropped.png)]
+.pull-right[![lab.num](images/SWOG Lab 240.png)]
 
 ---
 
 ## Recieve New Shipment
 - View shipments
-.center[![view.ship](images/03 View unreceived shipments.png)]
+.center[![view.ship](images/view unreceived specimens 2.png)]
 
 - Edit a shipment
 .center[![enter.ship](images/04 See Not Received Samples.png)]
@@ -47,6 +47,8 @@ class: center, middle
 ---
 
 ## Recieve New Shipment (continued)
+- Enter **Condition on Arrival** → **Accession Number** → **Date Received**
+- Leave a Comment, if necessary
 
 .center[![conf.ship](images/confirm shipment.gif)]
 
@@ -54,7 +56,7 @@ class: center, middle
 
 ## Enter Assay Results
 - View specimens that require assay testing
-.center[![view.assay](images/05 View assaying specimens.png)]
+.center[![view.assay](images/view assaying specimens 2.png)]
 - Edit the assay result of a specimen
 .center[![enter.assay](images/06 Edit assay results.png)]
 
@@ -62,10 +64,10 @@ class: center, middle
 
 ## Enter Assay Results (continued)
 
-- Log tissue sufficiency and assay result
-
-- Return to Assay Specimen List to see **Entry Status** of all specimens
-
+- Log **tissue sufficiency** and **assay result**
+.center[![assay](images/enter assay results.gif)]
+- Return to Assay Specimen List to see _**Entry Status**_ of all specimens
+.center[![assay_status](images/entry status.png)]
 ---
 
 ## Question?
