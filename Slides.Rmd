@@ -5,6 +5,8 @@ author: "SWOG SDMC"
 date: "2020-5-15"
 output: 
   xaringan::moon_reader:
+    includes:
+      after_body: insert-logo.html
     css: xaringan-themer.css
 ---
 
