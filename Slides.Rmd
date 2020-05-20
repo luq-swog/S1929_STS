@@ -30,12 +30,10 @@ class: center, middle
 ---
 
 ## Access SpecTrack
-- Access the SWOG [Specimen Tracking System](https://crawb.crab.org/SpecTrack/Logon.aspx) using **Internet Explorer**
+- Access the SWOG [**Specimen Tracking System**](https://crawb.crab.org/SpecTrack/Logon.aspx) using _Internet Explorer_
 
-- Log on with your CTEP IAM credentials or SWOG Roster ID
+- Log on with your SWOG Roster ID and password
 .center[![main](images/STS Main.png)]
-- Enter SWOG Lab Number: **240**
-.pull-right[![lab.num](images/SWOG Lab 240.png)]
 
 ---
 
