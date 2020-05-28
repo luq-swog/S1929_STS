@@ -2,7 +2,7 @@
 title: "SWOG SpecTrack Instruction"
 subtitle: "For S1929 and MDACC Tissue Qualification Laboratory"
 author: "SWOG SDMC"
-date: "2020-5-15"
+date: "2020-6-1"
 output: 
   xaringan::moon_reader:
     includes:
@@ -49,8 +49,9 @@ class: center, middle
 ## Recieve New Shipment (continued)
 - Enter **Condition on Arrival** → **Accession Number** → **Date Received**
 - Leave a Comment, if necessary
-
-.center[![conf.ship](images/confirm shipment.gif)]
+- Click "Receive Shipment" to save entry
+- Click "Choose a different shipment" to log another shipment
+.center[![conf.ship](images/confirm shipment slow.gif)]
 
 ---
 
@@ -65,9 +66,11 @@ class: center, middle
 ## Enter Assay Results (continued)
 
 - Log **tissue sufficiency** and **assay result**
+  - Enter results: *Yes/Positive*; *Yes/Negative*; or *No/blank*
+  - Please Note: Tissue sample is considered **Adequate** only if 2 unstained slides or 1 unstained slide plus 1 stained H&E slide are received with *adequate cellularity*.
+  - Click "Save Changes" to save entry
 .center[![assay](images/enter assay results.gif)]
-- Return to Assay Specimen List to see _**Entry Status**_ of all specimens
-.center[![assay_status](images/entry status.png)]
+
 ---
 
 ## Question?
@@ -77,3 +80,5 @@ class: center, middle
 - For study-related questions, contact <S1929@swog.org>
 
 - For questions regarding this instruction, contact <lqian@fredhutch.org>
+
+.pull-right[![logo](SWOG logo.jpg)]
