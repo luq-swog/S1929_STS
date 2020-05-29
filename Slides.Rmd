@@ -32,7 +32,7 @@ class: center, middle
 ## Access SpecTrack
 - Access the SWOG [**Specimen Tracking System**](https://crawb.crab.org/SpecTrack/Logon.aspx) using _Internet Explorer_
 
-- Log on with your SWOG Roster ID and password
+- Log on with your **_SWOG Roster ID Number_** and **_Password_**
 .center[![main](images/STS Main.png)]
 
 ---
@@ -48,7 +48,7 @@ class: center, middle
 
 ## Recieve New Shipment (continued)
 - Enter **Condition on Arrival** → **Accession Number** → **Date Received**
-- Leave a Comment, if necessary
+- Leave a Comment, if necessary. For example, sample arrived damaged or unusable.
 - Click "Receive Shipment" to save entry
 - Click "Choose a different shipment" to log another shipment
 .center[![conf.ship](images/confirm shipment slow.gif)]
@@ -65,9 +65,9 @@ class: center, middle
 
 ## Enter Assay Results (continued)
 
-- Log **tissue sufficiency** and **assay result**
+- Log **Tissue Sufficiency** and **Assay Result**
   - Enter results: *Yes/Positive*; *Yes/Negative*; or *No/blank*
-  - Please Note: Tissue sample is considered **Adequate** only if 2 unstained slides or 1 unstained slide plus 1 stained H&E slide are received with *adequate cellularity*.
+  - Please Note: Tissue sample is considered **_Adequate_** only if 2 unstained slides or 1 unstained slide plus 1 stained H&E slide are received with *adequate cellularity*.
   - Click "Save Changes" to save entry
 .center[![assay](images/enter assay results.gif)]
 
@@ -75,10 +75,12 @@ class: center, middle
 
 ## Question?
 
-- For SWOG STS-related questions, contact <technicalquestion@crab.org>
+- For eligibility, tissue submission related questions, contact **<lungquestion@crab.org>**
 
-- For study-related questions, contact <S1929@swog.org>
+- For SWOG STS-related questions, contact **<technicalquestion@crab.org>**
 
-- For questions regarding this instruction, contact <lqian@fredhutch.org>
+- For protocol-related questions, contact **<protocols@swog.org>**
+
+- For questions regarding this instruction, contact **<lqian@fredhutch.org>**
 
 .pull-right[![logo](SWOG logo.jpg)]
