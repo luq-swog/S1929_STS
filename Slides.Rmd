@@ -2,7 +2,7 @@
 title: "SWOG SpecTrack Instruction"
 subtitle: "For S1929 and MDACC Tissue Qualification Laboratory"
 author: "SWOG SDMC"
-date: "2020-6-1"
+date: "2020-6-15"
 output: 
   xaringan::moon_reader:
     includes:
